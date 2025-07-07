@@ -1,0 +1,20 @@
+# Ignore virtual environments
+venv/
+
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+
+# VSCode settings
+.vscode/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Environment and config
+.env
+*.env
+
+# System files
+.DS_Store
+Thumbs.db
